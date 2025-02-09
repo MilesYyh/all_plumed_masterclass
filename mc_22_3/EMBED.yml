@@ -1,0 +1,15 @@
+video1:
+  title: Lecture I
+  location: https://www.youtube.com/embed/1XYGfA4kJ1c
+video2:
+  title: Lecture II
+  location: https://www.youtube.com/embed/Rn5JgItgKX4
+ref1:
+  location: 21/003
+  type: internal
+ref2:
+  location: 21/004
+  type: internal
+ref3:
+  location: https://docs.google.com/presentation/d/1G94Kjq3kn3sNxFi2fZoISG3OMNq_erGIgleyr8y2YEA/edit#slide=id.g745e936a15_3_45
+  type: external

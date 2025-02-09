@@ -1,0 +1,19 @@
+video1:
+  title: PLUMED Masterclass 22-1.1
+  location: https://www.youtube.com/embed/HCI_FtnSnck?si=ISWIctF6nGdAmZu1
+  type: external
+video2:
+  title: PLUMED Masterclass 22-1.2
+  location: https://www.youtube.com/embed/ZL81ZxN_eo0?si=VMJyNipHp5untyY1
+Install:
+  location: https://github.com/h2nch2co2h/masterclass-22-1.git
+  type: external
+mbuto:
+  location: https://mbuto.si.usi.ch/
+  type: external
+video3:
+  title: Funnel Metadynamics Pre-Processing Tool
+  location: https://www.youtube.com/embed/DBGBGvHJ96g?si=fsDX_qQo9vHoYuqs
+#ref2:
+#  location: 21/005
+#  type: internal
